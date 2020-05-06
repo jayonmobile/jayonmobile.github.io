@@ -1,8 +1,8 @@
 # Site settings
-title:          Tale
+title:          "Street Daily Wrap"
 description:    "Minimal Jekyll theme for storytellers"
-#baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://jayonmobile.github.io/JTest02"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X

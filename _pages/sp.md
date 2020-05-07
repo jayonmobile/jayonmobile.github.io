@@ -6,3 +6,5 @@ permalink: /sp500/
 ---
 
 SP500 Chart here
+
+![Down -0.7%](/assets/sp500chart.png)

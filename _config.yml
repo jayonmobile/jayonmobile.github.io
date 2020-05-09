@@ -1,17 +1,17 @@
 # Site settings
 title:          "Street Daily Wrap"
-description:    "Minimal Jekyll theme for storytellers"
+description:    "one-stop reviewing the market performance everyday"
 baseurl:        ""
-url:            "https://jayonmobile.github.io/JTest02"
+url:            "https://jayonmobile.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         "Street Daily Wrap"
+  url:          "https://jayonmobile.github.io/"
+  email:        "contact@streetdailywrap.com"
 
 # Build settings
 markdown:       kramdown
@@ -29,6 +29,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-stickyposts
+  - jemoji
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -41,3 +42,7 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
 #theme: jekyll-theme-minimal
+
+# Emoji
+emoji:
+  src: "https://github.githubassets.com/images/icons/"

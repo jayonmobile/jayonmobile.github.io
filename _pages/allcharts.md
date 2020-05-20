@@ -25,7 +25,7 @@ permalink: /allcharts/
         <li>US
             <ul>
                 <li>SP 500</li>
-                <li>Nasdaq</li>
+                <li><a href ="/chartsPage/USIndex/CCMPIndex">Nasdaq</a></li>
                 <li><a href ="/chartsPage/USIndex/INDUIndex">Dow Jones</a></li>
                 <li>SP 400</li>
                 <li>Russell 2000</li>
@@ -83,6 +83,7 @@ permalink: /allcharts/
             <ul>
                 <li>Technology</li>
                 <li>Communication</li>
+                <li>Energy</li>
                 <li>Healthcare</li>
                 <li>Financial</li>
                 <li>Utilities</li>

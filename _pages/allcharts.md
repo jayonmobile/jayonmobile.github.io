@@ -81,17 +81,27 @@ permalink: /allcharts/
   <ul>
         <li>US Sector ETFs
             <ul>
-                <li><a href ="/chartsPage/Sector/XLK">Technology</a></li>
-                <li><a href ="/chartsPage/Sector/XLC">Communication</a></li>
-                <li><a href ="/chartsPage/Sector/XLE">Energy</a></li>
-                <li><a href ="/chartsPage/Sector/XLV">Healthcare</a></li>
-                <li><a href ="/chartsPage/Sector/XLF">Financial</a></li>
-                <li><a href ="/chartsPage/Sector/XLU">Utilities</a></li>
-                <li><a href ="/chartsPage/Sector/XLI">Industrial</a></li>
-                <li><a href ="/chartsPage/Sector/XLP">Consumer Staples</a></li>
-                <li><a href ="/chartsPage/Sector/XLY">Consumer Discretionary</a></li>
-                <li><a href ="/chartsPage/Sector/XLB">Material</a></li>
-                <li><a href ="/chartsPage/Sector/XLRE">Real Estate</a></li>
+                <li><a href ="/chartsPage/Sector/XLK">Technology (XLK)</a></li>
+                <li><a href ="/chartsPage/Sector/XLC">Communication (XLC)</a></li>
+                <li><a href ="/chartsPage/Sector/XLE">Energy (XLE)</a></li>
+                <li><a href ="/chartsPage/Sector/XLV">Healthcare (XLV)</a></li>
+                <li><a href ="/chartsPage/Sector/XLF">Financial (XLF)</a></li>
+                <li><a href ="/chartsPage/Sector/XLU">Utilities (XLU)</a></li>
+                <li><a href ="/chartsPage/Sector/XLI">Industrial (XLI)</a></li>
+                <li><a href ="/chartsPage/Sector/XLP">Consumer Staples (XLP)</a></li>
+                <li><a href ="/chartsPage/Sector/XLY">Consumer Discretionary (XLY)</a></li>
+                <li><a href ="/chartsPage/Sector/XLB">Material (XLB)</a></li>
+                <li><a href ="/chartsPage/Sector/XLRE">Real Estate (XLRE)</a></li>
+            </ul>
+        </li>    
+    </ul>
+  </div>
+
+  <div class="column">
+  <ul>
+        <li>Macro
+            <ul>
+                <li>PMI</li>
             </ul>
         </li>    
     </ul>

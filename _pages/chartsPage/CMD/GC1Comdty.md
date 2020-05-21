@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brent"
+title: "Gold"
 permalink: /chartsPage/CMD/GC1Comdty
 ---
 

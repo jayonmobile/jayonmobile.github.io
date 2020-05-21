@@ -4,5 +4,5 @@ title: "Dow Jones"
 permalink: /chartsPage/USIndex/INDUIndex
 ---
 
-![title](/assets/USIndex/INDU Index.png)
+![title](/assets/Charts/INDU Index.png)
 

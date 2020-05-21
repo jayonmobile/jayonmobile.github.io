@@ -4,5 +4,5 @@ title: "NASDAQ"
 permalink: /chartsPage/USIndex/CCMPIndex
 ---
 
-![title](/assets/USIndex/CCMP Index.png)
+![title](/assets/Charts/CCMP Index.png)
 

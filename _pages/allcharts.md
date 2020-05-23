@@ -24,7 +24,7 @@ permalink: /allcharts/
     <ul>
         <li>US
             <ul>
-                <li><a href ="/chartsPage/USIndex/SPXIndex">SP 500</a></li>
+                <li><a href ="/chartsPage/USIndex/SPXIndex">S&P 500</a></li>
                 <li><a href ="/chartsPage/USIndex/CCMPIndex">Nasdaq</a></li>
                 <li><a href ="/chartsPage/USIndex/INDUIndex">Dow Jones</a></li>
                 <li>SP 400</li>

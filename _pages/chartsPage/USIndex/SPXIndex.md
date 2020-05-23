@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SP 500"
+title: "S&P 500"
 permalink: /chartsPage/USIndex/SPXIndex
 ---
 

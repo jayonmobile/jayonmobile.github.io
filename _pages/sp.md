@@ -5,6 +5,7 @@ author: "Chester"
 permalink: /sp500/
 ---
 
+<div style="height:60px;">
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_348ee"></div>
@@ -13,8 +14,8 @@ permalink: /sp500/
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 800,
-  "height": 610,
+  "width": 600,
+  "height": 600,
   "symbol": "CURRENCYCOM:US500",
   "interval": "D",
   "timezone": "Etc/UTC",
@@ -36,7 +37,7 @@ permalink: /sp500/
   </script>
 </div>
 <!-- TradingView Widget END -->
-
+</div>
 
 
 

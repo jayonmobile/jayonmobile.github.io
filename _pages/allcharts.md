@@ -7,7 +7,7 @@ permalink: /allcharts/
 <style>
 .column {
   float: left;
-  width: 33.33%;
+  width: 25%;
 }
 
 /* Clear floats after the columns */
@@ -27,8 +27,14 @@ permalink: /allcharts/
                 <li><a href ="/chartsPage/USIndex/SPXIndex">S&P 500</a></li>
                 <li><a href ="/chartsPage/USIndex/CCMPIndex">Nasdaq</a></li>
                 <li><a href ="/chartsPage/USIndex/INDUIndex">Dow Jones</a></li>
-                <li>SP 400</li>
+                <li>S&P 400</li>
                 <li>Russell 2000</li>
+            </ul>
+        </li>
+        <li>US Valuation
+            <ul>
+                <li>S&P 500 P/E</li>
+                <li>S&P 500 P/B</li>
             </ul>
         </li>
         <li>Europe
@@ -102,6 +108,18 @@ permalink: /allcharts/
         <li>Macro
             <ul>
                 <li>PMI</li>
+            </ul>
+        </li>    
+    </ul>
+  </div>
+
+  <div class="column">
+  <ul>
+        <li>Country ETF
+            <ul>
+                <li>US</li>
+                <li>UK</li>
+                <li>JP</li>
             </ul>
         </li>    
     </ul>

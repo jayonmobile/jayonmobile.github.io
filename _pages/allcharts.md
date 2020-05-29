@@ -27,14 +27,15 @@ permalink: /allcharts/
                 <li><a href ="/chartsPage/USIndex/SPXIndex">S&P 500</a></li>
                 <li><a href ="/chartsPage/USIndex/CCMPIndex">Nasdaq</a></li>
                 <li><a href ="/chartsPage/USIndex/INDUIndex">Dow Jones</a></li>
-                <li>S&P 400</li>
-                <li>Russell 2000</li>
+                <li><a href ="/chartsPage/USIndex/MIDIndex">S&P 400</a></li>
+                <li><a href ="/chartsPage/USIndex/RTYIndex">Russell 2000</a></li>
             </ul>
         </li>
         <li>US Valuation
             <ul>
-                <li>S&P 500 P/E</li>
-                <li>S&P 500 P/B</li>
+                <li><a href ="/chartsPage/Multiples/SPXPE">S&P 500 P/E</a></li>
+                <li><a href ="/chartsPage/Multiples/SPXPB">S&P 500 P/B</a></li>
+                <li><a href ="/chartsPage/Multiples/SPXDVD">S&P 500 Dividend Yield</a></li>
             </ul>
         </li>
         <li>Europe

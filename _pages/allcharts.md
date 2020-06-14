@@ -31,10 +31,16 @@ permalink: /allcharts/
                 <li><a href ="/chartsPage/USIndex/RTYIndex">Russell 2000</a></li>
             </ul>
         </li>
+        <li>Volatility
+            <ul>
+                <li><a href ="/chartsPage/USIndex/VIX">VIX</a></li>
+            </ul>
+        </li>
         <li>US Valuation
             <ul>
                 <li><a href ="/chartsPage/Multiples/SPXPE">S&P 500 P/E</a></li>
                 <li><a href ="/chartsPage/Multiples/SPXPB">S&P 500 P/B</a></li>
+                <li><a href ="/chartsPage/Multiples/SPXEVSALES">S&P 500 EV/SALES</a></li>
                 <li><a href ="/chartsPage/Multiples/SPXDVD">S&P 500 Dividend Yield</a></li>
             </ul>
         </li>
